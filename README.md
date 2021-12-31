@@ -1,4 +1,6 @@
-# FusionText - Powerful web-based code editing
+# Archived - Superceded by the FuseCode organization
+
+------
 
 FusionText is the intersection of a number of good ideas I've encountered over the years
 that happens to implement an awesome programmer's editor and programming environment:
